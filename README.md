@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-este es un repositorio del módulo nuevo
+Esteproyecto es una prueba de como crear unrepositorio y clonarlo desde la pc
